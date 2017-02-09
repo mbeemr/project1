@@ -1,0 +1,9 @@
+#ignore these files specifically
+a.out
+ids.txt
+addresses.txt
+
+#ignore these types of files
+*.class
+
+#ignore these directories completely
